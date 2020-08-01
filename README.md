@@ -1,5 +1,4 @@
 
-[![Header](https://github.com/pamnovalli/pamnovalli/raw/master/profile.gif)](https://www.adamalston.com/)
 
 <div align="center" width="50">
 
