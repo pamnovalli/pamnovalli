@@ -5,10 +5,8 @@
 
 ### About me
 
-<p>
-<font size="2" color="red">
+<p style="font-size:30px">
 iOS developer and passionate about technology.
-</font>
 </p>
 
 
