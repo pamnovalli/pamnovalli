@@ -6,7 +6,7 @@
 ### About me
 
 <p>
-<font size="10" face="Verdana">
+<font size="30">
 iOS developer and passionate about technology.
 </font>
 </p>
