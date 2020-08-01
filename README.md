@@ -4,6 +4,7 @@
 
 ![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515)
 
+## iOS Developer 
 
 ### Languages and tools
 
