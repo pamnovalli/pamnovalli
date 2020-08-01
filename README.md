@@ -1,7 +1,7 @@
 
 
 
-![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true_color=fff&icon_color=79ff97&text_color=ff69b4&bg_color=ff69b4)
+![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true_color=fff&icon_color=79ff97&text_color=ff69b4&bg_color=151515)
 
 
 ### Languages and tools
