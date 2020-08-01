@@ -5,7 +5,11 @@
 
 ### About me
 
-<p>iOS developer and passionate about technology.</p>
+<p>
+<font size="10" face="Verdana">
+iOS developer and passionate about technology.
+</font>
+</p>
 
 
 ### Languages and tools
