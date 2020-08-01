@@ -5,9 +5,7 @@
 
 ### About me
 
-<p style="font-size:30px">
-iOS developer and passionate about technology.
-</p>
+<p style="font-size:50px">iOS developer and passionate about technology.</p>
 
 
 ### Languages and tools
