@@ -16,18 +16,21 @@
 
 ### Social media
 
-  <a href="https://www.linkedin.com/in/pam-novalli/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/pamnovalli">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://medium.com/@pamnovalli">
-    <img align="left" alt="Shubhamdeep Jha | Medium" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medium.svg" />
-  </a>
+<a target="_blank" href="https://www.linkedin.com/in/pam-novalli/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<br>
+<a target="_blank" href="https://medium.com/@pamnovalli">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
+<a target="_blank" href="https://twitter.com/pamnovalli">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+</br>
+
+ 
 <br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{pamnovalli}/count.svg)
 
