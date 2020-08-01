@@ -24,6 +24,8 @@
 
 </br>
 
+<br>**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{pamnovalli}/count.svg)
 
 
 <!--
