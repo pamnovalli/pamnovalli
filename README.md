@@ -1,5 +1,5 @@
 
-# Hi I'm Pam :woman_technologist:
+# Hi I'm Pam
 
 ![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true&title_color=e072b9&icon_color=f49b0a&text_color=ff69b4&bg_color=323232)
 
@@ -13,7 +13,7 @@
 
 * I Like art, games and design :clapper: :video_game: :headphones: :art:
 
-* Girl Power :muscle: :woman_office_worker: :woman_mechanic:
+* Girl Power :muscle: :woman_office_worker: :woman_mechanic: :woman_technologist:
 
 * :libra:
 
