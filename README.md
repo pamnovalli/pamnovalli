@@ -1,7 +1,7 @@
 
 # Hi I'm Pam :woman_technologist:
 
-![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true&title_color=e072b9&icon_color=ff69b4&text_color=ff69b4&bg_color=323232)
+![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true&title_color=e072b9&icon_color=f49b0a&text_color=ff69b4&bg_color=323232)
 
 ### About me
 
