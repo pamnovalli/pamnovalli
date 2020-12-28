@@ -16,7 +16,7 @@
 * Girl Power :muscle: :woman_office_worker: :woman_mechanic:
 * :libra:
 
-* :coffee: :beers:
+* Always willing to take :coffee: :beers:
 
 
 ### Languages and tools
