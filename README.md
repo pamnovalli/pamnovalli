@@ -5,7 +5,7 @@
 
 ### About me 
 
-* iOS developer :iphone: :hammer:
+* iOS developer :iphone: :hammer: :woman_technologist:
 
 * Passionate about technology and science :computer: :satellite: :woman_scientist: :woman_astronaut:
 
@@ -13,8 +13,7 @@
 
 * I Like art, games and design :clapper: :video_game: :headphones: :art:
 
-* Girl Power :muscle: :woman_office_worker: :woman_mechanic: :woman_technologist:
-
+* Girl Power :muscle: :woman_office_worker: :woman_mechanic:
 * :libra:
 
 * :coffee: :beers:
