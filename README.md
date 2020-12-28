@@ -19,15 +19,15 @@
 
 ### Social media
 
-<a target="_blank" href="https://www.linkedin.com/in/pam-novalli/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/pam-novalli/">
   <img align="left" alt="LinkdeIN" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a target="_blank" href="https://medium.com/@pamnovalli" target="_blank">
+<a target="_blank" href="https://medium.com/@pamnovalli">
   <img align="left" alt="Medium" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<a target="_blank" href="https://twitter.com/pamnovalli" target="_blank">
+<a target="_blank" href="https://twitter.com/pamnovalli">
   <img align="left" alt="Twitter" height="40px" src="Resources/twitterColorful.png"/>
 </a>
 
