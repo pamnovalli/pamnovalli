@@ -30,6 +30,10 @@
   <img align="left" alt="Twitter" height="40px" src="Resources/twitterColorful.png"/>
 </a>
 
+<a target="_blank" href="https://www.instagram.com/pamnovalli">
+  <img align="left" alt="instagram" height="40px" src="Resources/instagramColorful.png"/>
+</a>
+
 </br>
 </br>
  
