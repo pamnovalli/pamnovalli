@@ -20,11 +20,11 @@
 ### Social media
 
 <a target="_blank" href="https://www.linkedin.com/in/pam-novalli/">
-  <img align="left" alt="LinkdeIN" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" height="40px" src="Resources/linkedinColorful.png"/>
 </a>
 
 <a target="_blank" href="https://medium.com/@pamnovalli">
-  <img align="left" alt="Medium" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Medium" height="40px" src="Resources/mediumColorful.png"/>
 </a>
 
 <a target="_blank" href="https://twitter.com/pamnovalli">
