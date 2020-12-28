@@ -3,9 +3,17 @@
 
 ![Pamela GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnovalli&show_icons=true&title_color=e072b9&icon_color=f49b0a&text_color=ff69b4&bg_color=323232)
 
-### About me
+### About me 
 
-<p>iOS developer and passionate about technology, science, nature and art/design.</p>
+* iOS developer :iphone: :hammer:
+
+* Passionate about technology and science :computer: :floppy_disk: :satellite: 
+
+* I love nature :seedling: :cherry_blossom: :dog2: :dolphin:
+
+* I Like art, games and design :clapper: :video_game: :headphones: :art:
+
+* Girl Power :muscle: :woman:
 
 
 ### Languages and tools
