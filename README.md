@@ -5,7 +5,7 @@
 
 ### About me
 
-<p>iOS developer and passionate about technology.</p>
+<p>iOS developer, passionate about technology, science, nature and art/design.</p>
 
 
 ### Languages and tools
