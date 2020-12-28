@@ -7,13 +7,17 @@
 
 * iOS developer :iphone: :hammer:
 
-* Passionate about technology and science :computer: :floppy_disk: :satellite: 
+* Passionate about technology and science :computer: :satellite: :woman_scientist: :woman_astronaut:
 
-* I love nature :seedling: :cherry_blossom: :dog2: :dolphin:
+* I love nature :seedling: :cherry_blossom: :dog: :dolphin:
 
 * I Like art, games and design :clapper: :video_game: :headphones: :art:
 
-* Girl Power :muscle: :woman:
+* Girl Power :muscle: :woman_office_worker: :woman_mechanic:
+
+* :libra:
+
+* :coffee: :beers:
 
 
 ### Languages and tools
