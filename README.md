@@ -28,7 +28,7 @@
 </a>
 
 <a target="_blank" href="https://twitter.com/pamnovalli">
-  <img align="left" alt="Twitter" height="40px" src="../Resources/twitterColorful.png"/>
+  <img align="left" alt="Twitter" height="40px" src="Resources/twitterColorful.png"/>
 </a>
 
 </br>
