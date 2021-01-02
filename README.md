@@ -9,9 +9,9 @@
 
 * Passionate about technology and science :computer: :satellite: :woman_scientist: :woman_astronaut:
 
-* I love nature :seedling: :cherry_blossom: :dog: :dolphin:
+* Love nature :seedling: :cherry_blossom: :dog: :dolphin:
 
-* I Like art, games and design :clapper: :video_game: :headphones: :art:
+* Like art, games and design :clapper: :video_game: :headphones: :art:
 
 * Girl Power :muscle: :woman_office_worker: :woman_mechanic:
 * :libra:
