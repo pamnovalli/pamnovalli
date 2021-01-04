@@ -14,9 +14,6 @@
 * Like art, games and design :clapper: :video_game: :headphones: :art:
 
 * Girl Power :muscle: :woman_office_worker: :woman_mechanic:
-* :libra:
-
-* :coffee: :beers:
 
 
 ### Languages and tools
