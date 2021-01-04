@@ -31,6 +31,10 @@
 * Clean archicteture
 * Algorithms
 
+### My tech blog about iOS Development
+
+<a target="_blank" href="https://dailydoseofswift.com/">Daily Dose of Swift</a>
+
 ### Social media
 
 <a target="_blank" href="https://www.linkedin.com/in/pam-novalli/">
