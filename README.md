@@ -31,7 +31,7 @@
 * Clean archicteture
 * Algorithms
 
-### My tech blog about iOS Development
+### My tech blog about Swift and iOS Development
 
 <a target="_blank" href="https://dailydoseofswift.com/">Daily Dose of Swift</a>
 
