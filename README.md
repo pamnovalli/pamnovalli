@@ -5,7 +5,7 @@
 
 ### About me 
 
-* iOS developer :iphone: :hammer: :woman_technologist: :apple:
+* iOS Developer :iphone: :hammer: :woman_technologist: :apple:
 
 * Passionate about technology and science :computer: :satellite: :woman_scientist: :woman_astronaut:
 
