@@ -11,8 +11,6 @@
 
 * Love nature :seedling: :cherry_blossom: :dog: :dolphin:
 
-* Like art, games and design :clapper: :video_game: :headphones: :art:
-
 * Girl Power :muscle: :woman_office_worker: :woman_mechanic:
 
 
