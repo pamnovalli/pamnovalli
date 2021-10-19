@@ -9,8 +9,6 @@
 
 * Passionate about technology and science :computer: :satellite: :woman_scientist: :woman_astronaut:
 
-* Love nature :seedling: :cherry_blossom: :dog: :dolphin:
-
 * Girl Power :muscle: :woman_office_worker: :woman_mechanic:
 
 
