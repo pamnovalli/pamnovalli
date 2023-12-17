@@ -33,7 +33,7 @@
 
 ### Social media
 
-<a target="_blank" href="https://www.linkedin.com/in/pam-novalli/">
+<a target="_blank" href="https://www.linkedin.com/in/pamnovalli">
   <img align="left" alt="Linkedin" height="40px" src="Resources/linkedinColorful.png"/>
 </a>
 
